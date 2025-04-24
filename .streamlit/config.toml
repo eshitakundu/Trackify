@@ -3,22 +3,27 @@ enableStaticServing = true
 
 [theme]
 base = "dark"
-primaryColor = 
-backgroundColor =
-secondaryBackgroundColor =
-textColor =
-linkColor =
-font = "monospace"
-headingFont =
-fontFaces =
-baseRadius = 
-borderColor =
+primaryColor = "#1DB954"                   
+backgroundColor = "#191414"               
+secondaryBackgroundColor = "#282828"       
+textColor = "#FFFFFF"                       
+linkColor = "#1DB954"                       
+font = "Gotham-Book, monospace"              
+headingFont = "Gotham-Bold, monospace"      
+baseRadius = 2                               
+borderColor = "#282828"                      
 showWidgetBorder = true
 baseFontSize = 14
-showSidebarBorder =
+showSidebarBorder = false
 
 [[theme.fontFaces]]
-font = "Gotham-Black"
-url = "app/static/Gotham-Black.otf"
+font = "Gotham-Bold"
+url = "app/static/Gotham-Bold.otf"
 weight = 700
-style = "Bold"
+style = "normal"
+
+[[theme.fontFaces]]
+font = "Gotham-Book"
+url = "app/static/GothamBook.ttf"
+weight = 400
+style = "normal"
