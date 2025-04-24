@@ -8,7 +8,7 @@ A playful Spotify-powered dashboard where your music taste gets judged (gently o
 - 🎭 Choose your judge:
   - 🧂 Roast Bot (sarcastic critic)
   - 🍭 Sweet Bot (supportive cheerleader)
-- 💬 Chat limited to 3 spicy or sweet messages per session.
+- 💬 Chat 
 
 ## 🛠️ Built With:
 - Streamlit
