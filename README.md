@@ -1,17 +1,25 @@
-# 🎶 Trackify
+# 🎵 Trackify
 
-A playful Spotify-powered dashboard where your music taste gets judged (gently or brutally — your choice).
+Trackify is a Spotify-powered personal music dashboard that visualizes your listening habits and offers playful, insightful feedback on your music taste.
 
-## 🚀 Features (MVP)
-- 🔐 Login securely with your Spotify account.
-- 📊 See your top tracks, top artists, and audio features.
-- 🎭 Choose your judge:
-  - 🧂 Roast Bot (sarcastic critic)
-  - 🍭 Sweet Bot (supportive cheerleader)
-- 💬 Chat 
+---
 
-## 🛠️ Built With:
-- Streamlit
-- Spotify Web API
-- LangChain (for multi-bot interaction)
-- Python
+## 🚀 Features
+- 🔐 **Login securely with your Spotify account** (OAuth2-based).
+- 🎧 **View your personal listening data**:
+  - Top tracks
+  - Top artists
+  - Recently played songs
+  - Playlists
+  - Saved albums and songs
+- 💌 **Optional email collection** for future features like mood-based song capsules.
+
+---
+
+## 🛠️ Tech Stack
+- **Streamlit** – Interactive web app framework.
+- **Spotipy** – Python client for the Spotify Web API.
+- **Python-dotenv** – Secure environment variable management.
+- **Spotify Web API** – For fetching user data securely via OAuth.
+
+---
