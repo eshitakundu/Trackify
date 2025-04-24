@@ -10,7 +10,9 @@ st.write("This is regular body text (Gotham-Book).")
 st.markdown(
     """
     <h3 style='color:#1DB954;'>This should be Spotify Green 💚</h3>
+    <p style='font-family:Gotham-Bold;'>If this text looks smooth and nice, your Gotham-Book font is working!</p>
     <p style='font-family:Gotham-Book;'>If this text looks smooth and nice, your Gotham-Book font is working!</p>
+
     """,
     unsafe_allow_html=True
 )
