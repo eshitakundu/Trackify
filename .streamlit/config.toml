@@ -12,9 +12,9 @@ font = "Gotham-Book, monospace"
 headingFont = "Gotham-Bold, monospace"      
 baseRadius = 2                               
 borderColor = "#282828"                      
-showWidgetBorder = true
+showWidgetBorder = "true"
 baseFontSize = 14
-showSidebarBorder = false
+showSidebarBorder = "false"
 
 [[theme.fontFaces]]
 font = "Gotham-Bold"
