@@ -12,7 +12,7 @@ borderColor = "#282828"
 showWidgetBorder = true
 showSidebarBorder = false
 font = "GothamBook"
-headingFont = "Gotham-Bold"
+headingFont = "GothamBold"
 
 [[theme.fontFaces]]
 family = "GothamBook"
@@ -21,7 +21,7 @@ weight = 400
 style = "normal"
 
 [[theme.fontFaces]]
-family = "Gotham-Bold"
-url = "app/static/Gotham-Bold.otf"
+family = "GothamBold"
+url = "app/static/GothamBold.ttf"
 weight = 700
 style = "normal"
