@@ -1,0 +1,24 @@
+[server]
+enableStaticServing = true
+
+[theme]
+base = "dark"
+primaryColor = 
+backgroundColor =
+secondaryBackgroundColor =
+textColor =
+linkColor =
+font = "monospace"
+headingFont =
+fontFaces =
+baseRadius = 
+borderColor =
+showWidgetBorder = true
+baseFontSize = 14
+showSidebarBorder =
+
+[[theme.fontFaces]]
+font = "Gotham-Black"
+url = "app/static/Gotham-Black.otf"
+weight = 700
+style = "Bold"
