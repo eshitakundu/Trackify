@@ -1,6 +1,9 @@
 [server]
 enableStaticServing = true
 
+[client]
+showSidebarNavigation = false
+
 [theme]
 base = "dark"
 primaryColor = "#1DB954"                   
